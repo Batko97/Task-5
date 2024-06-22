@@ -1,0 +1,14 @@
+#bg-secondary {
+    background-color:rgb(153, 153, 153); /* Измените цвет на необходимый */
+    border: 3px solid black;
+}
+.menu-item {
+    background-color: #d3d3d3;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.header, .menu-title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
